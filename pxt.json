@@ -1,0 +1,43 @@
+{
+    "name": "legend of a great claymore V1",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "darts": "*",
+        "sprite-scaling": "*",
+        "color-coded-tilemap": "*",
+        "pxt-status-bar": "github:jwunderl/pxt-status-bar#v0.4.2",
+        "Sprite Grid": "github:microsoft/arcade-grid#v1.3.0",
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "arcade-sprite-data": "github:microsoft/arcade-sprite-data#v0.2.1",
+        "controller": "*",
+        "pxt-circuit-playground-character-icons": "github:adafruit/circuit-playground-character-icons#v0.0.8",
+        "legend of a great claymore": "pkg:legend of a great claymore.json"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "images.g.jres",
+        "images.g.ts",
+        "legend of a great claymore.json"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "stable4.0",
+        "tag": "v4.0.5",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/8b2b5c4d581645893dee49bb828fac33726d4556",
+        "target": "4.0.5",
+        "pxt": "12.2.26",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}

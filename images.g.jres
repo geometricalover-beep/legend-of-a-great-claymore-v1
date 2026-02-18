@@ -1,0 +1,12 @@
+{
+    "=3PYZ0M|jOHvJTdCYXmd_img": {
+        "data": "hwQQABAAAABmZmZmZmZmZgYAAAAAAABgBgAAAAAAAGAGAAAAAAAAYAYAAAAAYAZgBgBgZgZmBmAGAGZmZmYGYAYAZmZmZgZgBgBmZmZmBmAGAGZmZmYGYAYAYGYGZgZgZmYAAABgBmAGZgAAAAAAYGZgAAAAAABgBgAAAAAAAGBmZmZmZmZmZg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Debug"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
